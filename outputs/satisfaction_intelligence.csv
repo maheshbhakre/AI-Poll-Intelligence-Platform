@@ -1,0 +1,7 @@
+Category,Name,Satisfaction_Score,Median_Score,Std_Dev,Response_Count,Rank,Benchmark_Delta,Classification
+Tool Satisfaction,Python,4.54,5.0,0.5,102,1,+0.79,Above Benchmark
+Tool Satisfaction,Excel,3.28,3.0,0.45,54,2,-0.47,Below Benchmark
+Tool Satisfaction,R,2.57,3.0,0.51,14,3,-1.18,Below Benchmark
+Tool Satisfaction,Power Bi,2.48,2.0,0.51,31,4,-1.27,Below Benchmark
+Region Satisfaction,Urban,3.75,4.0,0.96,102,1,+0.0,Above Benchmark
+Region Satisfaction,Rural,3.74,4.0,1.01,99,2,-0.01,Below Benchmark

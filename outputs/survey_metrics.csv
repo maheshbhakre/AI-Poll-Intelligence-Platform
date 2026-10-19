@@ -1,0 +1,10 @@
+Category,Metric,Value,Unit
+Volume,Total Responses,201,Count
+Engagement,Response Completion Rate,100.0%,Percentage
+Preference,Most Popular Option,Python (50.75%),Tool
+Preference,Least Popular Option,R (6.97%),Tool
+Satisfaction,Average Satisfaction,3.75,Scale (1-5)
+Response Distribution,Tool Popularity: Python,102 votes (50.75%),Distribution
+Response Distribution,Tool Popularity: Excel,54 votes (26.87%),Distribution
+Response Distribution,Tool Popularity: Power Bi,31 votes (15.42%),Distribution
+Response Distribution,Tool Popularity: R,14 votes (6.97%),Distribution

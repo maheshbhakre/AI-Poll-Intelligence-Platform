@@ -1,0 +1,68 @@
+{
+    "survey_summary": {
+        "title": "AI & Data Science Tooling Survey Executive Summary",
+        "total_responses": 201,
+        "survey_completion_rate": "100.0%",
+        "overall_average_satisfaction": 3.75,
+        "overall_median_satisfaction": 4.0,
+        "most_preferred_tool": "Python",
+        "least_preferred_tool": "R"
+    },
+    "key_statistics": {
+        "vote_distribution": {
+            "Python": 102,
+            "Excel": 54,
+            "Power Bi": 31,
+            "R": 14
+        },
+        "vote_percentages": {
+            "Python": 50.75,
+            "Excel": 26.87,
+            "Power Bi": 15.42,
+            "R": 6.97
+        },
+        "satisfaction_by_tool": {
+            "Excel": 3.28,
+            "Power Bi": 2.48,
+            "Python": 4.54,
+            "R": 2.57
+        },
+        "age_cohort_preferences": {
+            "18-24": {
+                "top_tool": "Python",
+                "share_pct": 69.3
+            },
+            "25-34": {
+                "top_tool": "Python",
+                "share_pct": 55.2
+            },
+            "35-44": {
+                "top_tool": "Excel",
+                "share_pct": 66.7
+            }
+        },
+        "regional_preferences": {
+            "Rural": {
+                "top_tool": "Python",
+                "share_pct": 53.5
+            },
+            "Urban": {
+                "top_tool": "Python",
+                "share_pct": 48.0
+            }
+        }
+    },
+    "top_findings": [
+        "Python commands a dominant market position with 50.75% preference across all survey cohorts.",
+        "Python achieves the highest customer satisfaction score at 4.54 / 5.0.",
+        "Older respondents (35-44) exhibit strong enterprise legacy tool loyalty, favoring Excel at 66.7%.",
+        "Early-career respondents (18-24) strongly align with modern data stacks, with 69.3% favoring Python.",
+        "Power Bi lags in both adoption (6.97%) and satisfaction (2.48/5.0), indicating potential churn or training barriers."
+    ],
+    "actionable_recommendations": [
+        "Prioritize advanced Python integrations, modules, and training as the core product ecosystem anchor.",
+        "Modernize user workflows and UI/UX for Power Bi to mitigate user dissatisfaction and platform abandonment.",
+        "Segment educational campaigns by demographic cohort: promote modern automated scripting to older cohorts and advanced data engineering to younger cohorts.",
+        "Maintain seamless Excel interoperability since Excel retains over a quarter of total industry votes."
+    ]
+}

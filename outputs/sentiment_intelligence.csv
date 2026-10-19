@@ -1,0 +1,7 @@
+Entity_Type,Entity_Name,Total_Responses,Positive_Count,Neutral_Count,Negative_Count,Positive_%,Negative_%,Net_Sentiment_Score,Average_Polarity,Classification
+Tool,Excel,54,32,0,22,59.3,40.7,18.5,0.19,Positive
+Tool,Power Bi,31,9,12,10,29.0,32.3,-3.2,-0.02,Negative
+Tool,Python,102,102,0,0,100.0,0.0,100.0,0.583,Highly Positive
+Tool,R,14,6,3,5,42.9,35.7,7.1,0.018,Positive
+Region,Rural,99,75,7,17,75.8,17.2,58.6,0.373,Highly Positive
+Region,Urban,102,74,8,20,72.5,19.6,52.9,0.318,Highly Positive

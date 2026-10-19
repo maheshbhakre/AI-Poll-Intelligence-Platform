@@ -1,0 +1,8 @@
+Analysis Scope,Segment,Mean,Median,Min,Max,Std Dev,Sample Size
+Overall Sample,All Respondents,3.75,4.0,2,5,0.98,201
+Tool-wise,Excel,3.28,3.0,3,4,0.45,54
+Tool-wise,Power Bi,2.48,2.0,2,3,0.51,31
+Tool-wise,Python,4.54,5.0,4,5,0.5,102
+Tool-wise,R,2.57,3.0,2,3,0.51,14
+Region-wise,Rural,3.74,4.0,2,5,1.01,99
+Region-wise,Urban,3.75,4.0,2,5,0.96,102

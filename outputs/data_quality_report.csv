@@ -1,0 +1,10 @@
+Category,Metric,Value,Status
+Overview,Total Records Inspected,200,PASS
+Missing Values,Total Missing Cells,0,PASS
+Missing Values,Rows with Missing Values,0,PASS
+Duplicates,Duplicate Rows,0,PASS
+Duplicates,Duplicate Respondent IDs,0,PASS
+Rating Validity,Out-of-Bounds / Invalid Ratings (1-5),0,PASS
+Category Validity,Total Invalid Category Entries,0,PASS
+Survey Quality,Completeness Rate (%),100.0%,PASS
+Survey Quality,Overall Validity Rate (%),100.0%,PASS

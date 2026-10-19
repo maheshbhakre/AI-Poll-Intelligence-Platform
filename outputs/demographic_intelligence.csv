@@ -1,0 +1,9 @@
+Dimension,Segment,Response_Count,Share_%,Satisfaction_Mean,Primary_Tool,Tool_Concentration_%,Positive_Sentiment_%,Satisfaction_Rank
+Age Cohort,18-24,101,50.2,3.95,Python,69.3,78.2,1
+Age Cohort,25-34,58,28.9,3.9,Python,55.2,79.3,2
+Age Cohort,35-44,42,20.9,3.05,Excel,66.7,57.1,3
+Gender Identity,Female,94,46.8,3.65,Python,48.9,78.7,2
+Gender Identity,Male,106,52.7,3.85,Python,52.8,70.8,1
+Gender Identity,Unknown,1,0.5,2.0,Power Bi,100.0,0.0,3
+Geographic Region,Rural,99,49.3,3.74,Python,53.5,75.8,2
+Geographic Region,Urban,102,50.7,3.75,Python,48.0,72.5,1

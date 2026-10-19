@@ -1,0 +1,9 @@
+Demographic Dimension,Group,Response Count,Share (%),Most Popular Tool,Average Satisfaction
+Age Group,18-24,101,50.25%,Python (69.3%),3.95
+Age Group,25-34,58,28.86%,Python (55.2%),3.9
+Age Group,35-44,42,20.9%,Excel (66.7%),3.05
+Gender,Female,94,46.77%,Python (48.9%),3.65
+Gender,Male,106,52.74%,Python (52.8%),3.85
+Gender,Unknown,1,0.5%,Power Bi (100.0%),2.0
+Region,Rural,99,49.25%,Python (53.5%),3.74
+Region,Urban,102,50.75%,Python (48.0%),3.75

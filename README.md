@@ -1,48 +1,48 @@
-# 📊 Poll Results Visualizer (AI-Powered Survey Analytics System)
+# 📊 AI Poll Intelligence Platform (Data Science Project)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data--Analysis-green)
-![Visualization](https://img.shields.io/badge/Data%20Visualization-Seaborn-orange)
+![Visualization](https://img.shields.io/badge/Data%20Visualization-Plotly-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
-![NLP](https://img.shields.io/badge/NLP-Text%20Analytics-purple)
+![Domain](https://img.shields.io/badge/Domain-Survey%20%26%20Poll%20Analytics-purple)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 
 ## 📌 Overview
 
-This project is a **complete end-to-end Poll & Survey Analytics System** built using Python and Streamlit.
+This project is a **complete end-to-end Poll & Survey Analytics System** built using Python, Plotly, and Streamlit.
 
-It converts raw survey data into:
+It transforms raw survey responses into:
 
-* 📊 Interactive dashboards
-* 📈 Visual insights
-* 🧠 NLP-based feedback analysis
-* 📌 Decision-ready insights
-
----
-
-## 🎥 Demo Video
-
-[![Watch Video](images/video_thumbnail3.png)](images/demo_project3.mp4)
+* 📊 Interactive executive dashboards
+* 📈 Tool preference & vote share analytics
+* 👥 Demographic & regional segmentation
+* ⭐ Statistical satisfaction benchmarking
+* 🧠 NLP-based sentiment & feedback analysis
+* 📌 Decision-ready strategic insights
 
 ---
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dash1111.png)
-![Dashboard](images/dash2222.png)
+![Dashboard](images/ADVANCED/executive_command_center.png)
+![Dashboard](images/ADVANCED/survey_matrix.png)
+![Dashboard](images/ADVANCED/demographic.png)
+![Dashboard](images/ADVANCED/satisfaction_center.png)
+![Dashboard](images/ADVANCED/sentiment_center.png)
+![Dashboard](images/ADVANCED/AI_insight.png)
 
 ---
 
 ## 🛠 Problem Statement
 
-Organizations collect survey data but face issues:
+Organizations collect survey data but face critical challenges:
 
-* ❌ Raw data is hard to understand
-* ❌ Manual analysis is slow
-* ❌ No clear insights
-* ❌ No visualization system
+* ❌ Raw survey feedback is disorganized and hard to interpret
+* ❌ Manual survey aggregation is slow and error-prone
+* ❌ No real-time demographic and sentiment intelligence
+* ❌ Missing executive-grade visualization and decision support
 
 ---
 
@@ -50,32 +50,32 @@ Organizations collect survey data but face issues:
 
 This system:
 
-* Cleans and processes poll data
-* Calculates vote share & trends
-* Generates charts automatically
-* Performs NLP on feedback
-* Provides an interactive dashboard
+* Validates and cleans raw poll data automatically
+* Calculates vote shares, tool popularity, and demographic trends
+* Benchmarks parametric satisfaction scores and regional heatmaps
+* Analyzes text comments with NLP sentiment polarity classification
+* Provides an interactive, dark-themed command center with Plotly
 
 ---
 
 ## 🏭 Industry Relevance
 
-| Industry        | Use Case                      |
-| --------------- | ----------------------------- |
-| Market Research | Customer feedback analysis    |
-| HR Analytics    | Employee satisfaction surveys |
-| Education       | Student feedback analysis     |
-| Politics        | Election poll analysis        |
-| Product Teams   | Feature preference insights   |
+| Industry         | Use Case                                  |
+| ---------------- | ----------------------------------------- |
+| Tech & Software  | Developer tooling & preference tracking   |
+| Market Research  | Customer feedback & brand sentiment       |
+| HR Analytics     | Employee engagement & workplace surveys   |
+| Product Teams    | Feature priority & platform benchmarking  |
+| Data Science     | Opinion mining & demographic intelligence |
 
 ---
 
 ## 📊 Business Impact
 
-* ⚡ Faster decisions
-* 📉 Less manual work
-* 📈 Better insights
-* 🧠 Data-driven thinking
+* ⚡ Faster executive decisions
+* 📉 Zero manual data processing errors
+* 📈 Deep demographic & sentiment intelligence
+* 🧠 Data-driven product and marketing strategies
 
 ---
 
@@ -83,15 +83,16 @@ This system:
 
 * **Language:** Python
 * **Data Processing:** Pandas, NumPy
-* **Visualization:** Matplotlib, Seaborn
-* **NLP:** TextBlob, WordCloud
+* **Visualization:** Plotly
 * **Dashboard:** Streamlit
+* **NLP & Text Analytics:** TextBlob, WordCloud
+* **Testing & QA:** Pytest
 
 ---
 
 ## 📊 Dataset
 
-Synthetic Poll Dataset
+AI & Data Tooling Survey Dataset (Validated Polling Data)
 
 ### Features:
 
@@ -103,13 +104,15 @@ Synthetic Poll Dataset
 * Preferred Tool
 * Satisfaction (1-5)
 * Feedback
+* Sentiment
+* Polarity
 
 ---
 
 ## 🏗 System Architecture
 
 ```
-Raw Data → Data Cleaning → EDA → Analysis → Visualization → NLP → Insights → Dashboard
+Raw Survey Data → Data Validation → Preprocessing → Feature Engineering → Survey Metrics → Satisfaction Analytics → NLP Sentiment → Executive Insights → Plotly Command Center
 ```
 
 ---
@@ -117,31 +120,58 @@ Raw Data → Data Cleaning → EDA → Analysis → Visualization → NLP → In
 ## 📁 Project Structure
 
 ```
-AI-POLL-RESULTS-VISUALIZER/
-├── .venv/
+AI-POLL-INTELLIGENCE-PLATFORM/
 ├── app/
 │   └── app.py
 ├── data/
 │   ├── cleaned_poll_data.csv
 │   └── poll_data.csv
+├── docs/
+│   ├── business_insights.md
+│   ├── dashboard_guide.md
+│   └── project_audit.md
 ├── images/
-├── notebooks/
+│   ├── ADVANCED/
+│   │   ├── AI_insight.png
+│   │   ├── about.png
+│   │   ├── dataset_explore.png
+│   │   ├── demographic.png
+│   │   ├── demographic_graph.png
+│   │   ├── donut_graph.png
+│   │   ├── executive_command_center.png
+│   │   ├── multi_domain_recommendation.png
+│   │   ├── satisfaction_center.png
+│   │   ├── sentiment_center.png
+│   │   ├── sentiment_donut.png
+│   │   └── survey_matrix.png
+│   └── OLD_PROJECT/
 ├── outputs/
-│   ├── insights_report.txt
-│   ├── satisfaction_by_tool.csv
-│   └── vote_share.csv
+│   ├── data_quality_report.csv
+│   ├── demographic_analysis.csv
+│   ├── demographic_intelligence.csv
+│   ├── executive_summary.json
+│   ├── recommendations.json
+│   ├── satisfaction_intelligence.csv
+│   ├── satisfaction_report.csv
+│   ├── sentiment_intelligence.csv
+│   ├── sentiment_summary.csv
+│   └── survey_metrics.csv
 ├── src/
-│   ├── advanced_visuals.py
-│   ├── analysis.py
-│   ├── data_cleaning.py
-│   ├── data_generator.py
-│   ├── eda_analysis.py
-│   └── insights.py
-├── venv/
+│   ├── data_validation.py
+│   ├── eda.py
+│   ├── insights_engine.py
+│   ├── intelligence_center.py
+│   ├── satisfaction_analysis.py
+│   ├── survey_metrics.py
+│   └── text_analysis.py
+├── tests/
+│   ├── test_data_validation.py
+│   ├── test_insights.py
+│   ├── test_intelligence_center.py
+│   └── test_survey_metrics.py
 ├── main.py
 ├── README.md
 └── requirements.txt
-
 ```
 
 ---
@@ -149,9 +179,9 @@ AI-POLL-RESULTS-VISUALIZER/
 ## ⚙ Installation & Setup
 
 ```
-git clone https://github.com/maheshbhakre/poll-results-visualizer.git
+git clone https://github.com/maheshbhakre/AI-Poll-Intelligence-Platform.git
 
-cd poll-results-visualizer
+cd AI-Poll-Intelligence-Platform
 
 python -m venv venv
 venv\Scripts\activate
@@ -163,13 +193,19 @@ pip install -r requirements.txt
 
 ## 🖥 Usage
 
-### Step 1: Clean data
+### Step 1: Validate Data
 
 ```
-python src/data_cleaning.py
+python src/data_validation.py
 ```
 
-### Step 2: Run dashboard
+### Step 2: Run Intelligence Analytics
+
+```
+python src/intelligence_center.py
+```
+
+### Step 3: Launch Command Center
 
 ```
 streamlit run app/app.py
@@ -179,91 +215,33 @@ streamlit run app/app.py
 
 ## 📊 Key Visualizations
 
-### 🔹 Vote Share
-
-![Vote Share](images/vote_share_bar.png)
-![Vote Share](images/vote_share_pie.png)
-
-### 🔹 Satisfaction Analysis
-
-![Satisfaction](images/satisfaction_distribution.png)
-![Heatmap](images/satisfaction_heatmap.png)
-
-### 🔹 Trends
-
-![Trend](images/daily_trend.png)
-
-### 🔹 Demographics
-
-![Age](images/age_vs_tool.png)
-![Region](images/region_vs_tool.png)
+* 📈 Market Share Donut & Horizontal Bar Charts
+* 🌍 Regional Tool Preference Stacked Distribution
+* 👥 Age Cohort Comparative Tool Preference
+* ⭐ Interactive Cross-Regional Satisfaction Heatmap
+* 😊 Net Sentiment Index Diverging Bar & Classification Donut
+* 🔍 Statistical Satisfaction Spread Box & Points Chart
 
 ---
 
-## 🧠 NLP Insights
+## 📸 Data Processing Proof
 
-* ☁️ Word Cloud
-* 😊 Sentiment Analysis
-* 🔑 Keyword Extraction
-
----
-## 📸 Phase-wise Implementation Proof
-
-### 🔹 Phase 1
-
-![Phase 1](images/phase1/Screenshot%202026-04-18%20203753.png)
-
----
-
-### 🔹 Phase 2
-
-![Phase 2](images/phase2/Screenshot%202026-04-18%20204328.png)
-
----
-
-### 🔹 Phase 3
-
-![Phase 3](images/phase3/Screenshot%202026-04-18%20204801.png)
-
----
-
-### 🔹 Phase 4
-
-![Phase 4](images/phase4/Screenshot%202026-04-18%20204818.png)
-
----
-
-### 🔹 Phase 5
-
-![Phase 5](images/phase5/Screenshot%202026-04-18%20205622.png)
-
----
-
-### 🔹 Phase 6
-
-![Phase 6](images/phase6/Screenshot%202026-04-18%20210026.png)
-
----
-
-### 🔹 Phase 7
-
-![Phase 7](images/phase7/Screenshot%202026-04-18%20211704%20-%20Copy.png)
+(Available in outputs/ and images/ADVANCED/ folders)
 
 ---
 
 ## 🧠 Key Insights
 
-* Python is most preferred
-* R is least preferred
-* Avg satisfaction ≈ 3.7
-* Urban → Power BI usage high
-* Young users → Python
+* Python leads adoption with 50.8% market share and highest satisfaction (4.54 / 5.0)
+* Excel retains 26.9% preference, heavily concentrated among senior cohorts (35-44 at 66.7%)
+* Power BI and R show opportunities for onboarding and UX improvements (ratings <= 2.5)
+* Overall qualitative sentiment is 74.1% Positive, 7.5% Neutral, and 18.4% Negative
 
 ---
 
 ## 👨‍💻 Author
 
-Mahesh Bhakre
+**Mahesh Bhakre**
 
 ---
 
@@ -291,27 +269,25 @@ Mahesh Bhakre
 
 This project demonstrates:
 
-* Data Cleaning
-* EDA
-* Analysis
-* Visualization
-* NLP
-* Dashboard
+* Automated Data Validation
+* Survey Metrics & KPI Computation
+* Demographic & Regional Segmentation
+* Statistical Satisfaction Benchmarking
+* NLP Sentiment Polarity Classification
+* Interactive Plotly Command Center Development
 
 ---
 
 ## 🚀 Future Improvements
 
-* Live polling system
-* Real-time updates
-* API integration
-* Power BI dashboard
-* Advanced NLP
+* Real-time polling API integration
+* Predictive preference modeling with machine learning
+* Automated Slack / Email alert integration for negative feedback
+* Multi-language survey text sentiment analysis
+* Mobile-optimized PWA layout
 
 ---
 
 ## 🎯 Interview Tip
 
-> “I built an end-to-end Poll Results Visualizer that processes survey data, performs analysis, applies NLP on feedback, and presents insights through an interactive dashboard using Streamlit.”
-
----
+“I built an end-to-end AI Poll Intelligence Command Center that validates raw survey responses, computes demographic and satisfaction intelligence, applies NLP sentiment analysis, and visualizes decision-ready insights through an interactive Plotly and Streamlit dashboard.”
