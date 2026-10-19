@@ -26,12 +26,31 @@ It transforms raw survey responses into:
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/ADVANCED/executive_command_center.png)
-![Dashboard](images/ADVANCED/survey_matrix.png)
-![Dashboard](images/ADVANCED/demographic.png)
-![Dashboard](images/ADVANCED/satisfaction_center.png)
-![Dashboard](images/ADVANCED/sentiment_center.png)
-![Dashboard](images/ADVANCED/AI_insight.png)
+### 🏠 Executive Overview & Command Center
+![Executive Overview](images/ADVANCED/executive_command_center.png)
+![Market Preference Donut](images/ADVANCED/donut_graph.png)
+
+### 📊 Survey Analytics & Response Breakdown
+![Survey Metrics](images/ADVANCED/survey_matrix.png)
+
+### 👥 Demographic Intelligence & Segmentation
+![Demographic Intelligence](images/ADVANCED/demographic.png)
+![Demographic Visuals](images/ADVANCED/demographic_graph.png)
+
+### ⭐ Satisfaction Command Center
+![Satisfaction Center](images/ADVANCED/satisfaction_center.png)
+
+### 😊 Sentiment Intelligence Center
+![Sentiment Center](images/ADVANCED/sentiment_center.png)
+![Sentiment Distribution](images/ADVANCED/sentiment_donut.png)
+
+### 🧠 AI Insights & Strategic Recommendations
+![AI Insights](images/ADVANCED/AI_insight.png)
+![Strategic Recommendations](images/ADVANCED/multi_domain_recommendation.png)
+
+### 📁 Dataset Explorer & Platform Architecture
+![Dataset Explorer](images/ADVANCED/dataset_explore.png)
+![About Platform](images/ADVANCED/about.png)
 
 ---
 
